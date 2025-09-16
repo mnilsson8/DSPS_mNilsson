@@ -1,1 +1,1 @@
-Homework 3 was completed by :
+## Homework 3
