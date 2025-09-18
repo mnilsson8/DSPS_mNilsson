@@ -1,2 +1,2 @@
 ## Homework 3
-This homework was done mostly independently, but group members Mathilda Nilsson, Ally Baldelli and Zhuoran Gao shared the notebook KS_earthquakes.ipynb and MBoltzmann.ipynb with each other for review.
+This homework was done mostly independently, with group members Mathilda Nilsson. Ally Baldelli and Zhuoran Gao coding for KS_earthquakes.ipynb and MBoltzmann.ipynb separately and sharing their notebooks with each other in Colab for review.
