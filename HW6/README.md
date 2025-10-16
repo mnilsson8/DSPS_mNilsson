@@ -1,0 +1,1 @@
+This homework was completed by Ally Badelli, Zhouran Gao, and Mathilda Nilsson. Mathilda completed the broken power law MCMC, while Zhouran completed the likelihood ratio statistical test and Ally wrote the AIC and BIC for the comparison of the two models as well as the extra credit section. The comparison of the two models resulted in what I feel is a suspiciously low p-value. 
