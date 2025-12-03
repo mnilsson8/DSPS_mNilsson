@@ -1,3 +1,7 @@
+Old plot:
+<img width="856" height="847" alt="image" src="https://github.com/user-attachments/assets/363c6072-7f57-4820-9001-d01fc49d4cb7" />
+
+New plot:
 <img width="856" height="847" alt="image" src="https://github.com/user-attachments/assets/ae332945-01a2-4a7a-a07d-104e74fd6ad8" />
 
 I altered a plot from HW 5, which shows the different line models plotted against the magnitude of the GRB over log time. I removed the gray outlines around the plotted points in order to reduce the amount of ink on the plot, and because I also reduced the alpha of the points, which meant the outlines were no longer as necessary to distinguish between the points. I also made the points smaller so that there would no longer be points with error bars shorter than the diameter of the dot. Finally, I added the unit for time on the plot.
